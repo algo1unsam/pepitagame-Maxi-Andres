@@ -18,6 +18,8 @@ describe "Tests de Pepita" {
 	test "Al volar pepita pierde energia" {
 		pepita.vola(1)
 		assert.equals(91, pepita.energia())
+		pepita.vola(1)
+		assert.equals(82, pepita.energia())
 	}
 
 	test "Al volar mucho pepita queda cansada" {

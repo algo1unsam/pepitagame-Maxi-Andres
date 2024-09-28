@@ -18,6 +18,9 @@ object silvestre {
 
 	method image() = "silvestre.png"
 
-	method position() = game.origin()
+	//method position() = game.origin()
 	
+	//method position() = game.at(pepita.position().x(),0)
+	method position() = game.at(pepita.position().x().max(3),0) //hasta el 3 del x
+
 }
