@@ -10,14 +10,12 @@ program PepitaGame {
 	game.width(10)
 	game.boardGround("fondo2.jpg")
 
-	tutorial2.iniciar()
-
-	game.onTick(800, "gravedad", {if (pepita.limitedown()) { pepita.cae() }}) // hice otro metodo para que no pierda energia
+	tutorial3.iniciar()
 
 	game.showAttributes(pepita) //Debug
 
 	game.start()
 
-	if (pepita.energia() == 0) {game.stop()} //creo que ya con eso termina el juego
+	if (pepita.energia() == 0) {game.stop()} //ya con eso termina el juego
 
 }
