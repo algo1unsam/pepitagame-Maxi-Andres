@@ -1,10 +1,68 @@
-{"level":"info","message":"⌛ Building environment","timeElapsed":247,"timestamp":"2024-09-17T16:10:14.555Z"}
-{"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/leon/Work/ALGO1/2024/Workspace/pepitaGame","timestamp":"2024-09-17T16:10:14.561Z"}
-{"level":"info","message":"⌛ Building environment","timeElapsed":127,"timestamp":"2024-09-17T16:10:14.690Z"}
-{"level":"info","message":"⌛ Validating pepitaTest.wtest","timeElapsed":261,"timestamp":"2024-09-17T16:10:16.873Z"}
-{"level":"info","message":"⌛ Validating silvestreTest.wtest","timeElapsed":230,"timestamp":"2024-09-17T16:10:17.103Z"}
-{"level":"info","message":"⌛ Building environment","timeElapsed":227,"timestamp":"2024-09-17T16:37:37.001Z"}
-{"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/leon/Work/ALGO1/2024/Workspace/pepitaGame","timestamp":"2024-09-17T16:37:37.005Z"}
-{"level":"info","message":"⌛ Building environment","timeElapsed":137,"timestamp":"2024-09-17T16:37:37.144Z"}
-{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pepitaGame.PepitaGame on /home/leon/Work/ALGO1/2024/Workspace/pepitaGame","timeElapsed":128298,"timestamp":"2024-09-17T16:39:50.339Z"}
-{"exitCode":"SIGINT","level":"info","message":"👾 Game executed pepitaGame.PepitaGame on /home/leon/Work/ALGO1/2024/Workspace/pepitaGame","timeElapsed":165886,"timestamp":"2024-09-17T19:26:09.233Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Max\\Desktop\\Universidad\\Cuatrimestre_3_programacion\\Algortimos_1\\tps_de_algo_I\\pepitagame-Maxi-Andres","timeElapsed":115214,"timestamp":"2024-09-28T20:38:45.391Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Max\\Desktop\\Universidad\\Cuatrimestre_3_programacion\\Algortimos_1\\tps_de_algo_I\\pepitagame-Maxi-Andres","timeElapsed":25994,"timestamp":"2024-09-28T20:39:18.172Z"}
+{"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Max\\Desktop\\Universidad\\Cuatrimestre_3_programacion\\Algortimos_1\\tps_de_algo_I\\pepitagame-Maxi-Andres","timeElapsed":12938,"timestamp":"2024-09-28T20:40:13.780Z"}
+{"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Max\\Desktop\\Universidad\\Cuatrimestre_3_programacion\\Algortimos_1\\tps_de_algo_I\\pepitagame-Maxi-Andres","timeElapsed":11430,"timestamp":"2024-09-28T20:42:10.598Z"}
+{"exitCode":0,"level":"info","message":"👾 Game executed pepitaGame.PepitaGame on c:\\Users\\Max\\Desktop\\Universidad\\Cuatrimestre_3_programacion\\Algortimos_1\\tps_de_algo_I\\pepitagame-Maxi-Andres","timeElapsed":10624,"timestamp":"2024-09-28T20:43:32.721Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":261,"timestamp":"2024-09-28T23:25:48.412Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/Max/Desktop/Universidad/Cuatrimestre_3_programacion/Algortimos_1/tps_de_algo_I/pepitagame-Maxi-Andres","timestamp":"2024-09-28T23:25:48.444Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":181,"timestamp":"2024-09-28T23:25:48.626Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":123,"timestamp":"2024-09-28T23:25:48.830Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":108,"timestamp":"2024-09-28T23:25:51.301Z"}
+{"level":"info","message":"⌛ Validating extras.wlk","timeElapsed":308,"timestamp":"2024-09-28T23:25:51.699Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":175,"timestamp":"2024-09-28T23:25:51.875Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":145,"timestamp":"2024-09-28T23:25:52.046Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":115,"timestamp":"2024-09-28T23:25:52.162Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":239,"timestamp":"2024-09-28T23:25:52.403Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":107,"timestamp":"2024-09-28T23:25:52.510Z"}
+{"level":"info","message":"⌛ Validating silvestreTest.wtest","timeElapsed":183,"timestamp":"2024-09-28T23:25:52.694Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":120,"timestamp":"2024-09-28T23:25:52.815Z"}
+{"level":"info","message":"⌛ Validating extras.wlk","timeElapsed":132,"timestamp":"2024-09-28T23:25:52.953Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":115,"timestamp":"2024-09-28T23:25:53.068Z"}
+{"level":"info","message":"⌛ Validating silvestreTest.wtest","timeElapsed":117,"timestamp":"2024-09-28T23:25:53.185Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":130,"timestamp":"2024-09-28T23:25:53.316Z"}
+{"level":"info","message":"⌛ Validating randomizer.wlk","timeElapsed":152,"timestamp":"2024-09-28T23:25:53.474Z"}
+{"level":"info","message":"⌛ Validating pepitaTest.wtest","timeElapsed":160,"timestamp":"2024-09-28T23:25:53.635Z"}
+{"level":"info","message":"⌛ Validating pepitaGame.wpgm","timeElapsed":177,"timestamp":"2024-09-28T23:25:53.813Z"}
+{"level":"info","message":"⌛ Validating niveles.wlk","timeElapsed":217,"timestamp":"2024-09-28T23:25:54.037Z"}
+{"level":"info","message":"⌛ Validating comidas.wlk","timeElapsed":202,"timestamp":"2024-09-28T23:25:54.239Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":274,"timestamp":"2024-09-28T23:27:05.278Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/Max/Desktop/Universidad/Cuatrimestre_3_programacion/Algortimos_1/tps_de_algo_I/pepitagame-Maxi-Andres","timestamp":"2024-09-28T23:27:05.283Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":134,"timestamp":"2024-09-28T23:27:05.419Z"}
+{"level":"info","message":"⌛ Validating extras.wlk","timeElapsed":218,"timestamp":"2024-09-28T23:27:06.582Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":140,"timestamp":"2024-09-28T23:27:06.723Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":125,"timestamp":"2024-09-28T23:27:06.869Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":119,"timestamp":"2024-09-28T23:27:06.990Z"}
+{"level":"info","message":"⌛ Validating silvestreTest.wtest","timeElapsed":197,"timestamp":"2024-09-28T23:27:07.187Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":146,"timestamp":"2024-09-28T23:27:07.433Z"}
+{"level":"info","message":"⌛ Validating extras.wlk","timeElapsed":194,"timestamp":"2024-09-28T23:27:07.633Z"}
+{"level":"info","message":"⌛ Validating silvestreTest.wtest","timeElapsed":121,"timestamp":"2024-09-28T23:27:07.755Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":142,"timestamp":"2024-09-28T23:27:07.897Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":109,"timestamp":"2024-09-28T23:27:08.018Z"}
+{"level":"info","message":"⌛ Validating randomizer.wlk","timeElapsed":164,"timestamp":"2024-09-28T23:27:08.182Z"}
+{"level":"info","message":"⌛ Validating pepitaTest.wtest","timeElapsed":160,"timestamp":"2024-09-28T23:27:08.343Z"}
+{"level":"info","message":"⌛ Validating pepitaGame.wpgm","timeElapsed":172,"timestamp":"2024-09-28T23:27:08.516Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":156,"timestamp":"2024-09-28T23:27:08.673Z"}
+{"level":"info","message":"⌛ Validating niveles.wlk","timeElapsed":199,"timestamp":"2024-09-28T23:27:08.872Z"}
+{"level":"info","message":"⌛ Validating comidas.wlk","timeElapsed":173,"timestamp":"2024-09-28T23:27:09.046Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":125,"timestamp":"2024-09-28T23:27:21.090Z"}
+{"level":"info","message":"⌛ Validating extras.wlk","timeElapsed":164,"timestamp":"2024-09-28T23:27:21.349Z"}
+{"level":"info","message":"⌛ Validating extras.wlk","timeElapsed":124,"timestamp":"2024-09-28T23:27:21.573Z"}
+{"level":"info","message":"⌛ Validating extras.wlk","timeElapsed":132,"timestamp":"2024-09-28T23:27:21.705Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":180,"timestamp":"2024-09-28T23:27:29.981Z"}
+{"level":"info","message":"⌛ Validating extras.wlk","timeElapsed":149,"timestamp":"2024-09-28T23:27:30.136Z"}
+{"level":"info","message":"⌛ Validating silvestreTest.wtest","timeElapsed":127,"timestamp":"2024-09-28T23:27:30.265Z"}
+{"level":"info","message":"⌛ Validating randomizer.wlk","timeElapsed":113,"timestamp":"2024-09-28T23:27:30.380Z"}
+{"level":"info","message":"⌛ Validating pepitaTest.wtest","timeElapsed":115,"timestamp":"2024-09-28T23:27:30.496Z"}
+{"level":"info","message":"⌛ Validating pepitaGame.wpgm","timeElapsed":104,"timestamp":"2024-09-28T23:27:30.601Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":112,"timestamp":"2024-09-28T23:27:30.714Z"}
+{"level":"info","message":"⌛ Validating niveles.wlk","timeElapsed":116,"timestamp":"2024-09-28T23:27:30.831Z"}
+{"level":"info","message":"⌛ Validating comidas.wlk","timeElapsed":123,"timestamp":"2024-09-28T23:27:30.955Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":145,"timestamp":"2024-09-29T14:00:40.651Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/Max/Desktop/Universidad/Cuatrimestre_3_programacion/Algortimos_1/tps_de_algo_I/pepitagame-Maxi-Andres","timestamp":"2024-09-29T14:00:40.663Z"}
+{"level":"info","message":"⌛ Validating extras.wlk","timeElapsed":211,"timestamp":"2024-09-29T14:00:41.243Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":105,"timestamp":"2024-09-29T14:00:41.350Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":114,"timestamp":"2024-09-29T14:00:41.473Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":151,"timestamp":"2024-09-29T14:00:41.919Z"}
+{"level":"info","message":"⌛ Validating extras.wlk","timeElapsed":101,"timestamp":"2024-09-29T14:00:42.185Z"}
+{"level":"info","message":"⌛ Validating pepitaGame.wpgm","timeElapsed":101,"timestamp":"2024-09-29T14:00:42.573Z"}
+{"level":"info","message":"⌛ Validating comidas.wlk","timeElapsed":103,"timestamp":"2024-09-29T14:00:42.870Z"}

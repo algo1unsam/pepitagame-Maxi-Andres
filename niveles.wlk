@@ -22,7 +22,7 @@ object tutorial2 {
 		game.addVisual(silvestre)
 		game.addVisual(pepita)
 		config.configurarTeclas()
-		//config.configurarGravedad()  
+		config.configurarGravedad()  
 	}
 
 }
@@ -37,7 +37,7 @@ object tutorial3 {
 		game.addVisual(pepita)
 		config.configurarTeclas()
 		config.configurarColisiones()
-	//	config.configurarGravedad()
+		config.configurarGravedad()
 	}
 
 }
@@ -45,11 +45,20 @@ object tutorial3 {
 object config {
 
 	method configurarTeclas() {
-		keyboard.left().onPressDo({ pepita.irA(pepita.position().left(1)) })
-		keyboard.right().onPressDo({ pepita.irA(pepita.position().right(1))})
+
+		keyboard.left().onPressDo({ if (pepita.limiteizq()) { pepita.irA(pepita.position().left(1)) } }) 
+		keyboard.right().onPressDo({ if (pepita.limiteder()) { pepita.irA(pepita.position().right(1)) } }) 
+		keyboard.up().onPressDo({ if (pepita.limiteup()) { pepita.irA(pepita.position().up(1)) } })
+		keyboard.down().onPressDo({ if (pepita.limitedown()) { pepita.irA(pepita.position().down(1)) } })
+
+		keyboard.c().onPressDo({ pepita.come(game.uniqueCollider(pepita)) })
 	}
-	
+
 	method configurarColisiones() {
-		game.onCollideDo(pepita, { algo => algo.teEncontro(pepita) })
+	game.onCollideDo(pepita, { algo => algo.teEncontro(pepita) })
+	}
+
+	method configurarGravedad() {
+		game.onTick(800, "gravedad", {if (pepita.limitedown()) { pepita.cae() }}) // hice otro metodo para que no pierda energia
 	}
 }
